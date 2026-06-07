@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "name": "0.2.0",
+      "url": "https://raw.githubusercontent.com/DaCatMatthew/MazeBorn/1.0.0/MazeGame-0.2.0.jar"
+    },
+    {
+      "name": "0.1.0",
+      "url": "https://raw.githubusercontent.com/DaCatMatthew/MazeBorn/1.0.0/MazeGame-0.1.0.jar"
+    }
+  ]
+}
