@@ -1,6 +1,10 @@
 {
   "versions": [
       { 
+        "name": "0.2.2-pre2",
+        "url": "https://github.com/DaCatMatthew/MazeBorn/releases/download/MazeBorn/MazeGame-0.2.2-pre2.jar"
+      },
+      { 
         "name": "0.2.2-pre1",
         "url": "https://github.com/DaCatMatthew/MazeBorn/releases/download/MazeBorn/MazeGame-0.2.2-pre1.jar"
       },
